@@ -1,0 +1,1 @@
+This is Mera's first git project!"
